@@ -4,4 +4,4 @@ This directory contains PHP scripts for manipulating and processing strings. The
 
 ## Available Scripts
 
-- **[generate_excerpt.php](https://github.com/abdohwebdev/php-useful-scripts/tree/main/string_processing/generateExcerpt.php)** - a function to generate excerpt for a given text.
+- **[generateExcerpt.php](https://github.com/abdohwebdev/php-useful-scripts/tree/main/string_processing/generateExcerpt.php)** - a function to generate excerpt for a given text.
