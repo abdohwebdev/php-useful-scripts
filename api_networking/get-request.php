@@ -1,5 +1,4 @@
 <?php
-// function definition
 function sendGetRequest($url) {
     $ch = curl_init($url);
 
