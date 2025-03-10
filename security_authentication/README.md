@@ -4,4 +4,4 @@ This directory contains PHP scripts related to securing your application. These 
 
 ## Available Scripts
 
-- coming soon.
+- - **[password-hashing.php](https://github.com/abdohwebdev/php-useful-scripts/tree/main/security_authentication/password-hashing.php)** - two functions one hashes a password and the other verify it.
